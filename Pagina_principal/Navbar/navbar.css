@@ -5,6 +5,7 @@
     width: 15vw;
     transform: translateX(-100%);
     padding: 1rem 0rem;
+    z-index: 2;
 }
 
 #navbar ul {
